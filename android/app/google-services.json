@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "227587581582",
+    "project_id": "fir-native-9edcf",
+    "storage_bucket": "fir-native-9edcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227587581582:android:540dc271713de2008c4bdf",
+        "android_client_info": {
+          "package_name": "com.mansystems.FirebaseNative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227587581582-dme56728vcmdfok8fj9dpqs06lqpaafg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqS_faBBbAVyp47ZD-OTdLr2Xy67gCNQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227587581582-dme56728vcmdfok8fj9dpqs06lqpaafg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227587581582-ru2vedttnl9vaik022hmogfruiedu07h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mansystems.FirebaseNative"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227587581582:android:179de9511f0b0c388c4bdf",
+        "android_client_info": {
+          "package_name": "com.mansystems.FirebaseNative.developerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227587581582-dme56728vcmdfok8fj9dpqs06lqpaafg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqS_faBBbAVyp47ZD-OTdLr2Xy67gCNQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227587581582-dme56728vcmdfok8fj9dpqs06lqpaafg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227587581582-ru2vedttnl9vaik022hmogfruiedu07h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mansystems.FirebaseNative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
