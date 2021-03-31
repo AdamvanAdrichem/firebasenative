@@ -1,6 +1,6 @@
 PRODUCT_BUNDLE_IDENTIFIER = com.mansystems.FirebaseNative
 
-BUNDLE_DISPLAY_NAME = FirebaseNative
+BUNDLE_DISPLAY_NAME = NativeBuilder
 BUNDLE_IDENTIFIER = com.mansystems.FirebaseNative
 
 RUNTIME_URL = http:\/\/localhost:8080
